@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since day one.<br>📚 I'm currently learning why people don't write Wayland compositors with Rust and wlroots.<br>🎯 Goals: Finish a project for once.  Check out some of my public projects below.</p>
+<p align="left">✨ Creating bugs since day one.<br>📚 I'm currently learning why people don't write Wayland compositors with Rust and wlroots.<br>🎯 Goals: Finish a project for once. <br>Check out some of my public projects below.</p>
 
 ###
 
