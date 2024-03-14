@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since day one.<br>📚 I'm currently learning giving up on life.<br>🎯 Goals: Finish a project for once. <br>Check out some of my public projects below.</p>
+<p align="left">✨ Creating bugs since day one.<br>📚 I'm currently researching the meaning of life.<br>🎯 Goals: Finish a project for once. <br>Check out some of my public projects below.</p>
 
 ###
 
