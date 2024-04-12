@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an0nymoos3, a university student currently residing in Sweden.</p>
+<p align="left">I'm an0nymoos3, a university student from Sweden, studying a master in computer science and engineering.</p>
 
 ###
 
